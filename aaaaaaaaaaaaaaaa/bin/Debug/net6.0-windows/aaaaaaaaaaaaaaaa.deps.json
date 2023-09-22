@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "aaaaaaaaaaaaaaaa/1.0.0": {
+        "dependencies": {
+          "Memory": "1.2.26.0"
+        },
+        "runtime": {
+          "aaaaaaaaaaaaaaaa.dll": {}
+        }
+      },
+      "Memory/1.2.26.0": {
+        "runtime": {
+          "Memory.dll": {
+            "assemblyVersion": "1.2.26.0",
+            "fileVersion": "1.2.26.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aaaaaaaaaaaaaaaa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Memory/1.2.26.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
